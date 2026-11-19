@@ -1,0 +1,6 @@
+{
+  "name": "Yuu's Rush — 8-Bit Studio Arcade",
+  "description": "Help Yuu pack studio apparel orders faster so your episode drops sooner!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
